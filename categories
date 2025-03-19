@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Hoodies", "imageResId": "category_hoodie" },
+  { "id": 2, "name": "Shorts", "imageResId": "category_short" },
+  { "id": 3, "name": "Shoes", "imageResId": "category_shoes" },
+  { "id": 4, "name": "Bag", "imageResId": "category_bag" }
+]
