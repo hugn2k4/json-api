@@ -1,6 +1,6 @@
 [
-  { "id": 1, "name": "Hoodies", "imageResId": "category_hoodie" },
-  { "id": 2, "name": "Shorts", "imageResId": "category_short" },
-  { "id": 3, "name": "Shoes", "imageResId": "category_shoes" },
-  { "id": 4, "name": "Bag", "imageResId": "category_bag" }
+  { "id": 1, "name": "Hoodies", "imageUrl": "https://xuongmaylava.com/wp-content/uploads/2023/10/den1.jpg" },
+  { "id": 2, "name": "Shorts", "imageUrl": "https://bizweb.dktcdn.net/thumb/1024x1024/100/478/159/products/57489da4-f017-4eda-a2e2-80cb534cb2cc-1679389592762.jpg?v=1679389604303" },
+  { "id": 3, "name": "Shoes", "imageUrl": "https://product.hstatic.net/1000150581/product/1124a5577-4__9__d16ebe37003d42c6ab0ebdb4aa299630.jpg" },
+  { "id": 4, "name": "Bag", "imageUrl": "https://bizweb.dktcdn.net/100/479/837/products/12f5500a8e16d87b00186bee34866016-1681185938201.jpg?v=1683381231690" }
 ]
